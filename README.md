@@ -41,9 +41,12 @@ CSV (Lead Data Storage)
 
 ## Video demo
 
-[Video Demo](https://drive.google.com/file/d/1YOcGve2ZOeI2Suyj7p5UXNICZelqVc7h/view?usp=sharing)
+[Video Demo](https://drive.google.com/file/d/1RLKXWndZKrPt6hRMoO3dbmBHicFeN8Yi/view?usp=sharing)
 
 
+## Documentation
+
+[Documentation](https://drive.google.com/file/d/1t80F2TbtprwVtgsexI-gGm2TFy9C88Vm/view?usp=sharing)
 
 ## Activate Env
 
